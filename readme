@@ -1,0 +1,5 @@
+this project is about plog 
+by use flask framework we work at flas_alchemy to create database 
+we use wtforms to add post for plog
+and we create a delete method if we want to delete the plog 
+and finally we can edit post
